@@ -1,0 +1,2 @@
+# Tableau-Coffee-Shop-Customer-sales-decision-impacting-dashboard
+Coffee Analytics is an interactive Tableau dashboard project built to analyse sales, customer activity, product performance and time-based trends for a coffee retail business.  The dashboard was designed to provide a clear executive view of business performance while also allowing users to drill into detailed product, customer and trend insights.  
